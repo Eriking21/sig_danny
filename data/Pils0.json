@@ -1,0 +1,234 @@
+[
+  {
+    "geometry": {
+      "type": "point",
+      "latitude": -8.83313257,
+      "longitude": 13.24672332
+    },
+    "attributes": {
+      "ObjectType_id": 1,
+      "FID": 1000,
+      "identificação": "PIL_JP-II_01",
+      "Z": 86,
+      "estado": 0,
+      "País": "Angola",
+      "Província": "Luanda",
+      "Município": "Luanda",
+      "Distrito": "Maianga",
+      "Rua": "João Paulo - II",
+      "Fluxo das Luminárias": "48000Lumens",
+      "Potência": "400W",
+      "Nº de Luminárias": 1,
+      "Tipo de Lâmpada": "Vapor de Sódio",
+      "Marca da Lâmpada": "OSRAM",
+      "Vida Média": "24000h",
+      "Temperatura da Cor": "2000K_Amarela",
+      "Base": "E40",
+      "Referência": "7012900",
+      "Tensão": "220V"
+    }
+  },
+  {
+    "geometry": {
+      "type": "point",
+      "latitude": -8.83301419,
+      "longitude": 13.24654208
+    },
+    "attributes": {
+      "ObjectType_id": 1,
+      "FID": 1001,
+      "identificação": "PIL_JP-II_02",
+      "Z": 85,
+      "estado": 0,
+      "País": "Angola",
+      "Província": "Luanda",
+      "Município": "Luanda",
+      "Distrito": "Maianga",
+      "Rua": "João Paulo - II",
+      "Fluxo das Luminárias": "48000Lumens",
+      "Potência": "400W",
+      "Nº de Luminárias": 1,
+      "Tipo de Lâmpada": "Vapor de Sódio",
+      "Marca da Lâmpada": "OSRAM",
+      "Vida Média": "24000h",
+      "Temperatura da Cor": "2000K_Amarela",
+      "Base": "E40",
+      "Referência": "7012900",
+      "Tensão": "220V"
+    }
+  },
+  {
+    "geometry": {
+      "type": "point",
+      "latitude": -8.83288672,
+      "longitude": 13.2463518
+    },
+    "attributes": {
+      "ObjectType_id": 1,
+      "FID": 1002,
+      "identificação": "PIL_JP-II_03",
+      "Z": 86,
+      "estado": 0,
+      "País": "Angola",
+      "Província": "Luanda",
+      "Município": "Luanda",
+      "Distrito": "Maianga",
+      "Rua": "João Paulo - II",
+      "Fluxo das Luminárias": "48000Lumens",
+      "Potência": "400W",
+      "Nº de Luminárias": 1,
+      "Tipo de Lâmpada": "Vapor de Sódio",
+      "Marca da Lâmpada": "OSRAM",
+      "Vida Média": "24000h",
+      "Temperatura da Cor": "2000K_Amarela",
+      "Base": "E40",
+      "Referência": "7012900",
+      "Tensão": "220V"
+    }
+  },
+  {
+    "geometry": {
+      "type": "point",
+      "latitude": -8.83275013,
+      "longitude": 13.24614338
+    },
+    "attributes": {
+      "ObjectType_id": 1,
+      "FID": 1003,
+      "identificação": "PIL_JP-II_04",
+      "Z": 86,
+      "estado": 0,
+      "País": "Angola",
+      "Província": "Luanda",
+      "Município": "Luanda",
+      "Distrito": "Maianga",
+      "Rua": "João Paulo - II",
+      "Fluxo das Luminárias": "48000Lumens",
+      "Potência": "400W",
+      "Nº de Luminárias": 1,
+      "Tipo de Lâmpada": "Vapor de Sódio",
+      "Marca da Lâmpada": "OSRAM",
+      "Vida Média": "24000h",
+      "Temperatura da Cor": "2000K_Amarela",
+      "Base": "E40",
+      "Referência": "7012900",
+      "Tensão": "220V"
+    }
+  },
+  {
+    "geometry": {
+      "type": "point",
+      "latitude": -8.83260433,
+      "longitude": 13.24589864
+    },
+    "attributes": {
+      "ObjectType_id": 1,
+      "FID": 1004,
+      "identificação": "PIL_JP-II_05",
+      "Z": 86,
+      "estado": 0,
+      "País": "Angola",
+      "Província": "Luanda",
+      "Município": "Luanda",
+      "Distrito": "Maianga",
+      "Rua": "João Paulo - II",
+      "Fluxo das Luminárias": "48000Lumens",
+      "Potência": "400W",
+      "Nº de Luminárias": 1,
+      "Tipo de Lâmpada": "Vapor de Sódio",
+      "Marca da Lâmpada": "OSRAM",
+      "Vida Média": "24000h",
+      "Temperatura da Cor": "2000K_Amarela",
+      "Base": "E40",
+      "Referência": "7012900",
+      "Tensão": "220V"
+    }
+  },
+  {
+    "geometry": {
+      "type": "point",
+      "latitude": -8.83338189,
+      "longitude": 13.24590406
+    },
+    "attributes": {
+      "ObjectType_id": 1,
+      "FID": 1005,
+      "identificação": "PIL_JP-II_06",
+      "Z": 87,
+      "estado": 0,
+      "País": "Angola",
+      "Província": "Luanda",
+      "Município": "Luanda",
+      "Distrito": "Maianga",
+      "Rua": "João Paulo - II",
+      "Fluxo das Luminárias": "48000Lumens",
+      "Potência": "400W",
+      "Nº de Luminárias": 1,
+      "Tipo de Lâmpada": "Vapor de Sódio",
+      "Marca da Lâmpada": "OSRAM",
+      "Vida Média": "24000h",
+      "Temperatura da Cor": "2000K_Amarela",
+      "Base": "E40",
+      "Referência": "7012900",
+      "Tensão": "220V"
+    }
+  },
+  {
+    "geometry": {
+      "type": "point",
+      "latitude": -8.83244957,
+      "longitude": 13.24567213
+    },
+    "attributes": {
+      "ObjectType_id": 1,
+      "FID": 1006,
+      "identificação": "PIL_JP-II_07",
+      "Z": 87,
+      "estado": 0,
+      "País": "Angola",
+      "Província": "Luanda",
+      "Município": "Luanda",
+      "Distrito": "Maianga",
+      "Rua": "João Paulo - II",
+      "Fluxo das Luminárias": "48000Lumens",
+      "Potência": "400W",
+      "Nº de Luminárias": 1,
+      "Tipo de Lâmpada": "Vapor de Sódio",
+      "Marca da Lâmpada": "OSRAM",
+      "Vida Média": "24000h",
+      "Temperatura da Cor": "2000K_Amarela",
+      "Base": "E40",
+      "Referência": "7012900",
+      "Tensão": "220V"
+    }
+  },
+  {
+    "geometry": {
+      "type": "point",
+      "latitude": -8.83213076,
+      "longitude": 13.24516461
+    },
+    "attributes": {
+      "ObjectType_id": 1,
+      "FID": 1007,
+      "identificação": "PIL_JP-II_08",
+      "Z": 86,
+      "estado": 0,
+      "País": "Angola",
+      "Província": "Luanda",
+      "Município": "Luanda",
+      "Distrito": "Maianga",
+      "Rua": "João Paulo - II",
+      "Fluxo das Luminárias": "48000Lumens",
+      "Potência": "400W",
+      "Nº de Luminárias": 1,
+      "Tipo de Lâmpada": "Vapor de Sódio",
+      "Marca da Lâmpada": "OSRAM",
+      "Vida Média": "24000h",
+      "Temperatura da Cor": "2000K_Amarela",
+      "Base": "E40",
+      "Referência": "7012900",
+      "Tensão": "220V"
+    }
+  }
+]

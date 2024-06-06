@@ -1,0 +1,234 @@
+[
+  {
+    "geometry": {
+      "type": "point",
+      "latitude": -8.84625692,
+      "longitude": 13.23063541
+    },
+    "attributes": {
+      "ObjectType_id": 1,
+      "FID": 6000,
+      "identificação": "PIL_21J_01",
+      "Z": 98,
+      "estado": 0,
+      "País": "Angola",
+      "Província": "Luanda",
+      "Município": "Luanda",
+      "Distrito": "Maianga",
+      "Rua": "Avenida 21 de Janeiro",
+      "Fluxo das Luminárias": "27570Lumens",
+      "Potência": "250W",
+      "Nº de Luminárias": 2,
+      "Tipo de Lâmpada": "Vapor de Sódio",
+      "Marca da Lâmpada": "OSRAM",
+      "Vida Média": "24000h",
+      "Temperatura da Cor": "2000K_Amarela",
+      "Base": "E40",
+      "Referência": "7012899",
+      "Tensão": "220V"
+    }
+  },
+  {
+    "geometry": {
+      "type": "point",
+      "latitude": -8.84614967,
+      "longitude": 13.23089953
+    },
+    "attributes": {
+      "ObjectType_id": 1,
+      "FID": 7000,
+      "identificação": "PIL_21J_02",
+      "Z": 10,
+      "estado": 0,
+      "País": "Angola",
+      "Província": "Luanda",
+      "Município": "Luanda",
+      "Distrito": "Maianga",
+      "Rua": "Avenida 21 de Janeiro",
+      "Fluxo das Luminárias": "27570Lumens",
+      "Potência": "250W",
+      "Nº de Luminárias": 2,
+      "Tipo de Lâmpada": "Vapor de Sódio",
+      "Marca da Lâmpada": "OSRAM",
+      "Vida Média": "24000h",
+      "Temperatura da Cor": "2000K_Amarela",
+      "Base": "E40",
+      "Referência": "7012899",
+      "Tensão": "220V"
+    }
+  },
+  {
+    "geometry": {
+      "type": "point",
+      "latitude": -8.84604234,
+      "longitude": 13.23114548
+    },
+    "attributes": {
+      "ObjectType_id": 1,
+      "FID": 8000,
+      "identificação": "PIL_21J_03",
+      "Z": 98,
+      "estado": 0,
+      "País": "Angola",
+      "Província": "Luanda",
+      "Município": "Luanda",
+      "Distrito": "Maianga",
+      "Rua": "Avenida 21 de Janeiro",
+      "Fluxo das Luminárias": "27570Lumens",
+      "Potência": "250W",
+      "Nº de Luminárias": 2,
+      "Tipo de Lâmpada": "Vapor de Sódio",
+      "Marca da Lâmpada": "OSRAM",
+      "Vida Média": "24000h",
+      "Temperatura da Cor": "2000K_Amarela",
+      "Base": "E40",
+      "Referência": "7012899",
+      "Tensão": "220V"
+    }
+  },
+  {
+    "geometry": {
+      "type": "point",
+      "latitude": -8.8459441,
+      "longitude": 13.23140047
+    },
+    "attributes": {
+      "ObjectType_id": 1,
+      "FID": 9000,
+      "identificação": "PIL_21J_04",
+      "Z": 98,
+      "estado": 0,
+      "País": "Angola",
+      "Província": "Luanda",
+      "Município": "Luanda",
+      "Distrito": "Maianga",
+      "Rua": "Avenida 21 de Janeiro",
+      "Fluxo das Luminárias": "27570Lumens",
+      "Potência": "250W",
+      "Nº de Luminárias": 2,
+      "Tipo de Lâmpada": "Vapor de Sódio",
+      "Marca da Lâmpada": "OSRAM",
+      "Vida Média": "24000h",
+      "Temperatura da Cor": "2000K_Amarela",
+      "Base": "E40",
+      "Referência": "7012899",
+      "Tensão": "220V"
+    }
+  },
+  {
+    "geometry": {
+      "type": "point",
+      "latitude": -8.84583681,
+      "longitude": 13.2316555
+    },
+    "attributes": {
+      "ObjectType_id": 1,
+      "FID": 10000,
+      "identificação": "PIL_21J_05",
+      "Z": 98,
+      "estado": 0,
+      "País": "Angola",
+      "Província": "Luanda",
+      "Município": "Luanda",
+      "Distrito": "Maianga",
+      "Rua": "Avenida 21 de Janeiro",
+      "Fluxo das Luminárias": "27570Lumens",
+      "Potência": "250W",
+      "Nº de Luminárias": 2,
+      "Tipo de Lâmpada": "Vapor de Sódio",
+      "Marca da Lâmpada": "OSRAM",
+      "Vida Média": "24000h",
+      "Temperatura da Cor": "2000K_Amarela",
+      "Base": "E40",
+      "Referência": "7012899",
+      "Tensão": "220V"
+    }
+  },
+  {
+    "geometry": {
+      "type": "point",
+      "latitude": -8.84572952,
+      "longitude": 13.23191054
+    },
+    "attributes": {
+      "ObjectType_id": 1,
+      "FID": 11000,
+      "identificação": "PIL_21J_06",
+      "Z": 98,
+      "estado": 0,
+      "País": "Angola",
+      "Província": "Luanda",
+      "Município": "Luanda",
+      "Distrito": "Maianga",
+      "Rua": "Avenida 21 de Janeiro",
+      "Fluxo das Luminárias": "27570Lumens",
+      "Potência": "250W",
+      "Nº de Luminárias": 2,
+      "Tipo de Lâmpada": "Vapor de Sódio",
+      "Marca da Lâmpada": "OSRAM",
+      "Vida Média": "24000h",
+      "Temperatura da Cor": "2000K_Amarela",
+      "Base": "E40",
+      "Referência": "7012899",
+      "Tensão": "220V"
+    }
+  },
+  {
+    "geometry": {
+      "type": "point",
+      "latitude": -8.84563127,
+      "longitude": 13.23216553
+    },
+    "attributes": {
+      "ObjectType_id": 1,
+      "FID": 12000,
+      "identificação": "PIL_21J_07",
+      "Z": 98,
+      "estado": 0,
+      "País": "Angola",
+      "Província": "Luanda",
+      "Município": "Luanda",
+      "Distrito": "Maianga",
+      "Rua": "Avenida 21 de Janeiro",
+      "Fluxo das Luminárias": "27570Lumens",
+      "Potência": "250W",
+      "Nº de Luminárias": 2,
+      "Tipo de Lâmpada": "Vapor de Sódio",
+      "Marca da Lâmpada": "OSRAM",
+      "Vida Média": "24000h",
+      "Temperatura da Cor": "2000K_Amarela",
+      "Base": "E40",
+      "Referência": "7012899",
+      "Tensão": "220V"
+    }
+  },
+  {
+    "geometry": {
+      "type": "point",
+      "latitude": -8.84551499,
+      "longitude": 13.23242969
+    },
+    "attributes": {
+      "ObjectType_id": 1,
+      "FID": 13000,
+      "identificação": "PIL_21J_08",
+      "Z": 98,
+      "estado": 0,
+      "País": "Angola",
+      "Província": "Luanda",
+      "Município": "Luanda",
+      "Distrito": "Maianga",
+      "Rua": "Avenida 21 de Janeiro",
+      "Fluxo das Luminárias": "27570Lumens",
+      "Potência": "250W",
+      "Nº de Luminárias": 2,
+      "Tipo de Lâmpada": "Vapor de Sódio",
+      "Marca da Lâmpada": "OSRAM",
+      "Vida Média": "24000h",
+      "Temperatura da Cor": "2000K_Amarela",
+      "Base": "E40",
+      "Referência": "7012899",
+      "Tensão": "220V"
+    }
+  }
+]

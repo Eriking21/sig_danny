@@ -1,0 +1,9 @@
+#resizer {
+  width: 0.7rem;
+  background-color: #d5d8b3a7;
+  cursor: ew-resize;
+}
+
+#resizer:hover {
+  background-color: #d5d8b3c7;
+}
