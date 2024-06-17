@@ -3,7 +3,7 @@
     "geometry": {
       "type": "point",
       "latitude": -8.83490631,
-      "longitude": 13.23157037
+      "longitude": 13.23168037
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -32,36 +32,36 @@
     "geometry": {
       "type": "point",
       "latitude": -8.83464387,
-      "longitude": 13.23151709
+      "longitude": 13.23162709
     },
     "attributes": {
       "ObjectType_id": 1,
       "FID": 8001,
       "identificação": "PIL_MN_02",
+      "Z": 65,
       "estado": 0,
       "País": "Angola",
       "Província": "Luanda",
       "Município": "Luanda",
       "Distrito": "Maianga",
       "Rua": "Avenida Marien Ngouabi",
-      "Z": 65,
-      "Base": "E40",
-      "Referência": "7012899",
+      "Fluxo das Luminárias": "27570Lumens",
+      "Potência": "250W",
+      "Nº de Luminárias": 2,
       "Tipo de Lâmpada": "Vapor de Sódio",
       "Marca da Lâmpada": "OSRAM",
-      "Temperatura da Cor": "2000K_Amarela",
-      "Nº de Luminárias": 2,
       "Vida Média": "24000h",
-      "Tensão": "220V",
-      "Potência": "250W",
-      "Fluxo das Luminárias": "27570Lumens"
+      "Temperatura da Cor": "2000K_Amarela",
+      "Base": "E40",
+      "Referência": "7012899",
+      "Tensão": "220V"
     }
   },
   {
     "geometry": {
       "type": "point",
       "latitude": -8.83436343,
-      "longitude": 13.23148206
+      "longitude": 13.23159206
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -90,7 +90,7 @@
     "geometry": {
       "type": "point",
       "latitude": -8.83410095,
-      "longitude": 13.23141969
+      "longitude": 13.23152969
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -119,7 +119,7 @@
     "geometry": {
       "type": "point",
       "latitude": -8.83356703,
-      "longitude": 13.23131316
+      "longitude": 13.23142316
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -148,7 +148,7 @@
     "geometry": {
       "type": "point",
       "latitude": -8.83382947,
-      "longitude": 13.23136644
+      "longitude": 13.23147644
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -177,7 +177,7 @@
     "geometry": {
       "type": "point",
       "latitude": -8.83332267,
-      "longitude": 13.23125978
+      "longitude": 13.23136978
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -206,7 +206,7 @@
     "geometry": {
       "type": "point",
       "latitude": -8.83302406,
-      "longitude": 13.23120667
+      "longitude": 13.23131667
     },
     "attributes": {
       "ObjectType_id": 1,

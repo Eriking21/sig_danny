@@ -2,7 +2,7 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83231675,
+      "latitude": -8.83317675,
       "longitude": 13.23662844
     },
     "attributes": {
@@ -31,7 +31,7 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83203712,
+      "latitude": -8.83289712,
       "longitude": 13.23676612
     },
     "attributes": {
@@ -60,7 +60,7 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.8318207,
+      "latitude": -8.8326807,
       "longitude": 13.23688531
     },
     "attributes": {
@@ -89,7 +89,7 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83157711,
+      "latitude": -8.83243711,
       "longitude": 13.23699555
     },
     "attributes": {
@@ -118,7 +118,7 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83133356,
+      "latitude": -8.83219356,
       "longitude": 13.23711487
     },
     "attributes": {
@@ -147,7 +147,7 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83110801,
+      "latitude": -8.83196801,
       "longitude": 13.23721593
     },
     "attributes": {
@@ -176,7 +176,7 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83085542,
+      "latitude": -8.83171542,
       "longitude": 13.23733529
     },
     "attributes": {
@@ -205,30 +205,30 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83063916,
+      "latitude": -8.83149916,
       "longitude": 13.23749085
     },
     "attributes": {
       "ObjectType_id": 1,
       "FID": 4007,
       "identificação": "PIL_CG_08",
-      "Z": 10,
       "estado": 0,
       "País": "Angola",
       "Província": "Luanda",
       "Município": "Luanda",
       "Distrito": "Maianga",
       "Rua": "Avenida Comeandante Gika",
-      "Fluxo das Luminárias": "27570Lumens",
-      "Potência": "250W",
-      "Nº de Luminárias": 2,
-      "Tipo de Lâmpada": "Vapor de Sódio",
-      "Marca da Lâmpada": "OSRAM",
-      "Vida Média": "24000h",
-      "Temperatura da Cor": "2000K_Amarela",
+      "Z": 10,
       "Base": "E40",
       "Referência": "7012899",
-      "Tensão": "220V"
+      "Tipo de Lâmpada": "Vapor de Sódio",
+      "Marca da Lâmpada": "OSRAM",
+      "Temperatura da Cor": "2000K_Amarela",
+      "Nº de Luminárias": 2,
+      "Vida Média": "24000h",
+      "Tensão": "220V",
+      "Potência": "250W",
+      "Fluxo das Luminárias": "27570Lumens"
     }
   }
 ]

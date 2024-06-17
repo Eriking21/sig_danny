@@ -73,9 +73,12 @@ export const CoordField = ({ coordinates, index: form }: _C_) => {
             <input
               type="number"
               name={coordName}
-              step={1/8192}
+              step={0.00001}
               defaultValue={mapInterface.view?.center[coordName] ?? 0}
-              onChange={(event) => {
+              
+              onInput={(event) => {
+                event.preventDefault();
+                event.currentTarget.value = ""+parseFloat(event.currentTarget.value).toFixed(8);
                 if (mapInterface.view === undefined) return;
                 const mapview = mapInterface.view!;
                 // Find the graphic using its ID

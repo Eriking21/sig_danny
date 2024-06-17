@@ -2,8 +2,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83803868,
-      "longitude": 13.23592776
+      "latitude": -8.83725868,
+      "longitude": 13.23587776
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -31,8 +31,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83789514,
-      "longitude": 13.23616478
+      "latitude": -8.83711514,
+      "longitude": 13.23611478
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -60,8 +60,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83768848,
-      "longitude": 13.23643846
+      "latitude": -8.83690848,
+      "longitude": 13.23638846
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -89,8 +89,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83749056,
-      "longitude": 13.23664846
+      "latitude": -8.83671056,
+      "longitude": 13.23659846
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -118,8 +118,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83727457,
-      "longitude": 13.23685856
+      "latitude": -8.83649457,
+      "longitude": 13.23680856
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -147,8 +147,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83701345,
-      "longitude": 13.23708705
+      "latitude": -8.83623345,
+      "longitude": 13.23703705
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -176,8 +176,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83677016,
-      "longitude": 13.23726091
+      "latitude": -8.83599016,
+      "longitude": 13.23721091
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -205,8 +205,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83645463,
-      "longitude": 13.23745329
+      "latitude": -8.83567463,
+      "longitude": 13.23740329
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -234,37 +234,37 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83797411,
-      "longitude":  13.23565537
+      "latitude": -8.83719411,
+      "longitude": 13.23560537
     },
     "attributes": {
       "ObjectType_id": 1,
       "FID": 2008,
       "identificação": "PIL_HCM_09",
+      "Z": 10,
       "estado": 0,
       "País": "Angola",
       "Província": "Luanda",
       "Município": "Luanda",
       "Distrito": "Maianga",
       "Rua": "Avenida Ho Chi Minh",
-      "Z": 10,
-      "Base": "E40",
-      "Referência": "7012898",
+      "Fluxo das Luminárias": "15300Lumens",
+      "Potência": "150W",
+      "Nº de Luminárias": 1,
       "Tipo de Lâmpada": "Vapor de Sódio",
       "Marca da Lâmpada": "OSRAM",
-      "Temperatura da Cor": "2000K_Amarela",
-      "Nº de Luminárias": 1,
       "Vida Média": "24000h",
-      "Tensão": "220V",
-      "Potência": "150W",
-      "Fluxo das Luminárias": "15300Lumens"
+      "Temperatura da Cor": "2000K_Amarela",
+      "Base": "E40",
+      "Referência": "7012898",
+      "Tensão": "220V"
     }
   },
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83785803,
-      "longitude": 13.23596498
+      "latitude": -8.83707803,
+      "longitude": 13.23591498
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -292,8 +292,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83769645,
-      "longitude": 13.23621117
+      "latitude": -8.83691645,
+      "longitude": 13.23616117
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -321,8 +321,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83743564,
-      "longitude": 13.23650329
+      "latitude": -8.83665564,
+      "longitude": 13.23645329
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -350,8 +350,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83722868,
-      "longitude": 13.23671334
+      "latitude": -8.83644868,
+      "longitude": 13.23666334
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -379,8 +379,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.8369946,
-      "longitude": 13.23692352
+      "latitude": -8.8362146,
+      "longitude": 13.23687352
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -408,8 +408,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83673331,
-      "longitude": 13.23711565
+      "latitude": -8.83595331,
+      "longitude": 13.23706565
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -437,8 +437,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83645394,
-      "longitude": 13.23730786
+      "latitude": -8.83567394,
+      "longitude": 13.23725786
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -463,11 +463,12 @@
       "Tensão": "220V"
     }
   },
+
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83810333,
-      "longitude": 13.23621833
+      "latitude": -8.83732333,
+      "longitude": 13.23616833
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -495,8 +496,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83791437,
-      "longitude": 13.23641011
+      "latitude": -8.83713437,
+      "longitude": 13.23636011
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -524,8 +525,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83771637,
-      "longitude": 13.23660194
+      "latitude": -8.83693637,
+      "longitude": 13.23655194
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -553,8 +554,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.8375634,
-      "longitude": 13.2367572
+      "latitude": -8.8367834,
+      "longitude": 13.2367072
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -582,8 +583,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83740144,
-      "longitude": 13.23692158
+      "latitude": -8.83662144,
+      "longitude": 13.23687158
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -611,8 +612,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83721231,
-      "longitude": 13.23707701
+      "latitude": -8.83643231,
+      "longitude": 13.23702701
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -640,8 +641,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83693307,
-      "longitude": 13.23729649
+      "latitude": -8.83615307,
+      "longitude": 13.23724649
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -669,8 +670,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83669873,
-      "longitude": 13.23745213
+      "latitude": -8.83591873,
+      "longitude": 13.23740213
     },
     "attributes": {
       "ObjectType_id": 1,

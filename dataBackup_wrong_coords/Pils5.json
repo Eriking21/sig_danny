@@ -2,20 +2,78 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83490631,
-      "longitude": 13.23157037
+      "latitude": -8.84625692,
+      "longitude": 13.23063541
+    },
+    "attributes": {
+      "ObjectType_id": 1,
+      "FID": 6000,
+      "identificação": "PIL_21J_01",
+      "Z": 98,
+      "estado": 0,
+      "País": "Angola",
+      "Província": "Luanda",
+      "Município": "Luanda",
+      "Distrito": "Maianga",
+      "Rua": "Avenida 21 de Janeiro",
+      "Fluxo das Luminárias": "27570Lumens",
+      "Potência": "250W",
+      "Nº de Luminárias": 2,
+      "Tipo de Lâmpada": "Vapor de Sódio",
+      "Marca da Lâmpada": "OSRAM",
+      "Vida Média": "24000h",
+      "Temperatura da Cor": "2000K_Amarela",
+      "Base": "E40",
+      "Referência": "7012899",
+      "Tensão": "220V"
+    }
+  },
+  {
+    "geometry": {
+      "type": "point",
+      "latitude": -8.84614967,
+      "longitude": 13.23089953
+    },
+    "attributes": {
+      "ObjectType_id": 1,
+      "FID": 7000,
+      "identificação": "PIL_21J_02",
+      "Z": 10,
+      "estado": 0,
+      "País": "Angola",
+      "Província": "Luanda",
+      "Município": "Luanda",
+      "Distrito": "Maianga",
+      "Rua": "Avenida 21 de Janeiro",
+      "Fluxo das Luminárias": "27570Lumens",
+      "Potência": "250W",
+      "Nº de Luminárias": 2,
+      "Tipo de Lâmpada": "Vapor de Sódio",
+      "Marca da Lâmpada": "OSRAM",
+      "Vida Média": "24000h",
+      "Temperatura da Cor": "2000K_Amarela",
+      "Base": "E40",
+      "Referência": "7012899",
+      "Tensão": "220V"
+    }
+  },
+  {
+    "geometry": {
+      "type": "point",
+      "latitude": -8.84604234,
+      "longitude": 13.23114548
     },
     "attributes": {
       "ObjectType_id": 1,
       "FID": 8000,
-      "identificação": "PIL_MN_01",
-      "Z": 64,
+      "identificação": "PIL_21J_03",
+      "Z": 98,
       "estado": 0,
       "País": "Angola",
       "Província": "Luanda",
       "Município": "Luanda",
       "Distrito": "Maianga",
-      "Rua": "Avenida Marien Ngouabi",
+      "Rua": "Avenida 21 de Janeiro",
       "Fluxo das Luminárias": "27570Lumens",
       "Potência": "250W",
       "Nº de Luminárias": 2,
@@ -31,49 +89,20 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83464387,
-      "longitude": 13.23151709
+      "latitude": -8.8459441,
+      "longitude": 13.23140047
     },
     "attributes": {
       "ObjectType_id": 1,
-      "FID": 8001,
-      "identificação": "PIL_MN_02",
+      "FID": 9000,
+      "identificação": "PIL_21J_04",
+      "Z": 98,
       "estado": 0,
       "País": "Angola",
       "Província": "Luanda",
       "Município": "Luanda",
       "Distrito": "Maianga",
-      "Rua": "Avenida Marien Ngouabi",
-      "Z": 65,
-      "Base": "E40",
-      "Referência": "7012899",
-      "Tipo de Lâmpada": "Vapor de Sódio",
-      "Marca da Lâmpada": "OSRAM",
-      "Temperatura da Cor": "2000K_Amarela",
-      "Nº de Luminárias": 2,
-      "Vida Média": "24000h",
-      "Tensão": "220V",
-      "Potência": "250W",
-      "Fluxo das Luminárias": "27570Lumens"
-    }
-  },
-  {
-    "geometry": {
-      "type": "point",
-      "latitude": -8.83436343,
-      "longitude": 13.23148206
-    },
-    "attributes": {
-      "ObjectType_id": 1,
-      "FID": 8002,
-      "identificação": "PIL_MN_03",
-      "Z": 60,
-      "estado": 0,
-      "País": "Angola",
-      "Província": "Luanda",
-      "Município": "Luanda",
-      "Distrito": "Maianga",
-      "Rua": "Avenida Marien Ngouabi",
+      "Rua": "Avenida 21 de Janeiro",
       "Fluxo das Luminárias": "27570Lumens",
       "Potência": "250W",
       "Nº de Luminárias": 2,
@@ -89,20 +118,20 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83410095,
-      "longitude": 13.23141969
+      "latitude": -8.84583681,
+      "longitude": 13.2316555
     },
     "attributes": {
       "ObjectType_id": 1,
-      "FID": 8003,
-      "identificação": "PIL_MN_04",
-      "Z": 57,
+      "FID": 10000,
+      "identificação": "PIL_21J_05",
+      "Z": 98,
       "estado": 0,
       "País": "Angola",
       "Província": "Luanda",
       "Município": "Luanda",
       "Distrito": "Maianga",
-      "Rua": "Avenida Marien Ngouabi",
+      "Rua": "Avenida 21 de Janeiro",
       "Fluxo das Luminárias": "27570Lumens",
       "Potência": "250W",
       "Nº de Luminárias": 2,
@@ -118,20 +147,20 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83356703,
-      "longitude": 13.23131316
+      "latitude": -8.84572952,
+      "longitude": 13.23191054
     },
     "attributes": {
       "ObjectType_id": 1,
-      "FID": 8004,
-      "identificação": "PIL_MN_05",
-      "Z": 51,
+      "FID": 11000,
+      "identificação": "PIL_21J_06",
+      "Z": 98,
       "estado": 0,
       "País": "Angola",
       "Província": "Luanda",
       "Município": "Luanda",
       "Distrito": "Maianga",
-      "Rua": "Avenida Marien Ngouabi",
+      "Rua": "Avenida 21 de Janeiro",
       "Fluxo das Luminárias": "27570Lumens",
       "Potência": "250W",
       "Nº de Luminárias": 2,
@@ -147,20 +176,20 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83382947,
-      "longitude": 13.23136644
+      "latitude": -8.84563127,
+      "longitude": 13.23216553
     },
     "attributes": {
       "ObjectType_id": 1,
-      "FID": 8005,
-      "identificação": "PIL_MN_06",
-      "Z": 54,
+      "FID": 12000,
+      "identificação": "PIL_21J_07",
+      "Z": 98,
       "estado": 0,
       "País": "Angola",
       "Província": "Luanda",
       "Município": "Luanda",
       "Distrito": "Maianga",
-      "Rua": "Avenida Marien Ngouabi",
+      "Rua": "Avenida 21 de Janeiro",
       "Fluxo das Luminárias": "27570Lumens",
       "Potência": "250W",
       "Nº de Luminárias": 2,
@@ -176,49 +205,20 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83332267,
-      "longitude": 13.23125978
+      "latitude": -8.84551499,
+      "longitude": 13.23242969
     },
     "attributes": {
       "ObjectType_id": 1,
-      "FID": 8006,
-      "identificação": "PIL_MN_07",
-      "Z": 52,
+      "FID": 13000,
+      "identificação": "PIL_21J_08",
+      "Z": 98,
       "estado": 0,
       "País": "Angola",
       "Província": "Luanda",
       "Município": "Luanda",
       "Distrito": "Maianga",
-      "Rua": "Avenida Marien Ngouabi",
-      "Fluxo das Luminárias": "27570Lumens",
-      "Potência": "250W",
-      "Nº de Luminárias": 2,
-      "Tipo de Lâmpada": "Vapor de Sódio",
-      "Marca da Lâmpada": "OSRAM",
-      "Vida Média": "24000h",
-      "Temperatura da Cor": "2000K_Amarela",
-      "Base": "E40",
-      "Referência": "7012899",
-      "Tensão": "220V"
-    }
-  },
-  {
-    "geometry": {
-      "type": "point",
-      "latitude": -8.83302406,
-      "longitude": 13.23120667
-    },
-    "attributes": {
-      "ObjectType_id": 1,
-      "FID": 8007,
-      "identificação": "PIL_MN_08",
-      "Z": 49,
-      "estado": 0,
-      "País": "Angola",
-      "Província": "Luanda",
-      "Município": "Luanda",
-      "Distrito": "Maianga",
-      "Rua": "Avenida Marien Ngouabi",
+      "Rua": "Avenida 21 de Janeiro",
       "Fluxo das Luminárias": "27570Lumens",
       "Potência": "250W",
       "Nº de Luminárias": 2,

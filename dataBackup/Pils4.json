@@ -2,8 +2,8 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83801241,
-      "longitude": 13.2308293
+      "latitude": -8.83878449,
+      "longitude": 13.23087916
     },
     "attributes": {
       "ObjectType_id": 1,
@@ -31,12 +31,12 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.8376039,
-      "longitude": 13.23047674
+      "latitude": -8.83837598,
+      "longitude": 13.2305266
     },
     "attributes": {
       "ObjectType_id": 1,
-      "FID": 6000,
+      "FID": 5001,
       "identificação": "PIL_RO_02",
       "Z": 92,
       "estado": 0,
@@ -60,12 +60,12 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83734956,
-      "longitude": 13.23022344
+      "latitude": -8.83812164,
+      "longitude": 13.2302733
     },
     "attributes": {
       "ObjectType_id": 1,
-      "FID": 7000,
+      "FID": 5002,
       "identificação": "PIL_RO_03",
       "Z": 92,
       "estado": 0,
@@ -89,12 +89,12 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83674103,
-      "longitude": 13.22963551
+      "latitude": -8.83751311,
+      "longitude": 13.22968537
     },
     "attributes": {
       "ObjectType_id": 1,
-      "FID": 8000,
+      "FID": 5003,
       "identificação": "PIL_RO_04",
       "Z": 92,
       "estado": 0,
@@ -118,12 +118,12 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83657748,
-      "longitude": 13.22946358
+      "latitude": -8.83734956,
+      "longitude": 13.22951344
     },
     "attributes": {
       "ObjectType_id": 1,
-      "FID": 9000,
+      "FID": 5004,
       "identificação": "PIL_RO_05",
       "Z": 93,
       "estado": 0,
@@ -147,12 +147,12 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83800191,
-      "longitude": 13.23052029
+      "latitude": -8.83877399,
+      "longitude": 13.23057015
     },
     "attributes": {
       "ObjectType_id": 1,
-      "FID": 10000,
+      "FID": 5005,
       "identificação": "PIL_RO_06",
       "Z": 93,
       "estado": 0,
@@ -176,12 +176,12 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83688504,
-      "longitude": 13.22949847
+      "latitude": -8.83765712,
+      "longitude": 13.22954833
     },
     "attributes": {
       "ObjectType_id": 1,
-      "FID": 11000,
+      "FID": 5006,
       "identificação": "PIL_RO_07",
       "Z": 93,
       "estado": 0,
@@ -205,12 +205,12 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83670332,
-      "longitude": 13.22930845
+      "latitude": -8.8374754,
+      "longitude": 13.22935831
     },
     "attributes": {
       "ObjectType_id": 1,
-      "FID": 12000,
+      "FID": 5007,
       "identificação": "PIL_RO_08",
       "Z": 92,
       "estado": 0,
@@ -234,12 +234,12 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83726652,
-      "longitude": 13.22986933
+      "latitude": -8.8380386,
+      "longitude": 13.22991919
     },
     "attributes": {
       "ObjectType_id": 1,
-      "FID": 13000,
+      "FID": 5008,
       "identificação": "PIL_RO_09",
       "Z": 94,
       "estado": 0,
@@ -263,12 +263,12 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83706667,
-      "longitude": 13.22967031
+      "latitude": -8.83783875,
+      "longitude": 13.22972017
     },
     "attributes": {
       "ObjectType_id": 1,
-      "FID": 14000,
+      "FID": 5009,
       "identificação": "PIL_RO_10",
       "Z": 94,
       "estado": 0,
@@ -292,12 +292,12 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83746636,
-      "longitude": 13.23006836
+      "latitude": -8.83823844,
+      "longitude": 13.23011822
     },
     "attributes": {
       "ObjectType_id": 1,
-      "FID": 15000,
+      "FID": 5010,
       "identificação": "PIL_RO_11",
       "Z": 95,
       "estado": 0,
@@ -321,12 +321,12 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.8377297,
-      "longitude": 13.23031252
+      "latitude": -8.83850178,
+      "longitude": 13.23036238
     },
     "attributes": {
       "ObjectType_id": 1,
-      "FID": 16000,
+      "FID": 5011,
       "identificação": "PIL_RO_12",
       "Z": 95,
       "estado": 0,
@@ -350,12 +350,12 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83818337,
-      "longitude": 13.23065577
+      "latitude": -8.83895545,
+      "longitude": 13.23070563
     },
     "attributes": {
       "ObjectType_id": 1,
-      "FID": 17000,
+      "FID": 5012,
       "identificação": "PIL_RO_13",
       "Z": 95,
       "estado": 0,
@@ -379,12 +379,12 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83692275,
-      "longitude": 13.22982552
+      "latitude": -8.83769483,
+      "longitude": 13.22987538
     },
     "attributes": {
       "ObjectType_id": 1,
-      "FID": 18000,
+      "FID": 5013,
       "identificação": "PIL_RO_14",
       "Z": 95,
       "estado": 0,
@@ -408,12 +408,12 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83712259,
-      "longitude": 13.23002455
+      "latitude": -8.83789467,
+      "longitude": 13.23007441
     },
     "attributes": {
       "ObjectType_id": 1,
-      "FID": 19000,
+      "FID": 5014,
       "identificação": "PIL_RO_15",
       "Z": 95,
       "estado": 0,
@@ -437,12 +437,12 @@
   {
     "geometry": {
       "type": "point",
-      "latitude": -8.83782178,
-      "longitude": 13.23066659
+      "latitude": -8.83859386,
+      "longitude": 13.23071645
     },
     "attributes": {
       "ObjectType_id": 1,
-      "FID": 20000,
+      "FID": 5015,
       "identificação": "PIL_RO_16",
       "Z": 95,
       "estado": 0,

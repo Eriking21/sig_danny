@@ -172,8 +172,8 @@ const mapInterface: MapInterface = {
                 value: value,
                 symbol: new PictureMarkerSymbol({
                   url: `/custom/icon_${index}_${color.replace("#", "")}.png`,
-                  width: 26,
-                  height: 26,
+                  width: 28,
+                  height: 28,
                 }),
               })),
             }),
