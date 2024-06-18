@@ -8,12 +8,12 @@ export const stateColorStops: {
   {
     label: "Funcional",
     value: 0,
-    color: "#80ed80",
+    color: "yellow",
   },
   {
     label: "Defeituoso",
     value: 1,
-    color: "yellow",
+    color: "#efcf63",
   },
   {
     label: "Avariado",
