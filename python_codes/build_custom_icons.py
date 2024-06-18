@@ -4,7 +4,7 @@ import os
 current_dir = os.path.dirname(os.path.abspath(__file__)) + "/../public/custom"
 
 items = 2
-colors: list[str] = ["red", "#80ed80", "yellow", "gray", "white"]
+colors: list[str] = ["red", "#efcf63" ,"#80ed80", "yellow", "gray", "white"]
 img_size:int = 512
 icon_size:int = 300
 diff_size:int = int((img_size-icon_size)/2)
